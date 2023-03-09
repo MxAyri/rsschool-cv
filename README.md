@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV-2](https://MxAyri.github.io/rsschool-cv/)
