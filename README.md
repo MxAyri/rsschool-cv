@@ -1,1 +1,1 @@
-[CV](https://MxAyri.github.io/rsschool-cv/cv)
+[CV-2](https://MxAyri.github.io/rsschool-cv/)
