@@ -14,6 +14,7 @@ Three years ago, during his studies at the institute. I started to get intereste
 - JavaScript Basics
 - GitHub
 - VS Code
+
 ---
 #### Code example: ####
 Array Deep Count KATA from CODEWARS: You are given an array. Complete the function that returns the number of ALL elements within an array, including any nested arrays.
@@ -29,3 +30,13 @@ function deepCount(array) {
   return count
 }
 ```
+***
+#### Courses: ####
+- In 2022, he received a bachelor's degree from the Volgograd Polytechnic Institute
+- In 2024, he received a master's degree from the Volgograd Polytechnic Institute
+- I have an electronic certificate of completion of the online course on "1C-Bitrix: Site Management"
+---
+
+#### Languages: ####
+- Russian - Native
+- English - B1
