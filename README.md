@@ -1,1 +1,1 @@
-# [rsschool-cv](https://mxayri.github.io/rsschool-cv/)
+# [rsschool-cv](https://MxAyri.github.io/rsschool-cv/)
