@@ -1,0 +1,274 @@
+*,*::before,*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+h1{
+    font-size: 45px;
+    color: #1B1C22;
+}
+
+h2{
+    font-size: 20px;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #1B1C22;
+}
+
+.nav-menu{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 15px 70px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+
+main{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    display: flex;
+}
+
+aside{
+    float: left;
+    background-color: #262831;
+}
+
+.imgMe{
+    border-radius: 120px;
+    border: 2px solid #8C0000;
+    margin: 20px;
+}
+
+.list{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    padding: 15px 0 10px 0;
+    margin-right: 0;
+    margin-left: auto;
+    border-bottom: 3px solid white;
+
+}
+
+.nameList{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+.marker{
+    padding: 20px 0px;
+    width: 240px;
+    margin-right: 0;
+    margin-left: auto;
+    list-style-type: none;
+    color: white;
+    font-size: 16px;
+}
+
+.marker-skils{  
+    padding: 20px 0px;
+    width: 200px;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.mark-color{
+    padding: 15px;
+}
+
+.mark-color::marker{
+    color: #8C0000;
+    font-size: 25px;
+}
+
+.color-skill{
+    color: white;
+    font-size: 16px;
+    line-height: auto;
+}
+
+.marker li a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.mainCont{
+    background-color: white;
+    padding: 18px 0 0 44px;
+    width: 100%;
+}
+
+.mainCont h2{
+    color:#262831;
+}
+
+.role{
+    font-size: 35px;
+    font-weight: 400;
+    color: #8C0000;
+    padding-top: 15px;
+}
+
+.about-me{
+    padding-top: 40px;
+}
+
+.titleAbout{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #262831;
+}
+
+.txt-about{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 20px 40px 0 0 ;
+    line-height: 25px;
+}
+
+.title-code{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #262831;
+    padding-top: 30px;
+}
+
+.txt-about-code{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 20px 40px 20px 0 ;
+    line-height: 25px;
+}
+
+.txt-project{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 30px 40px 2px 0;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.txt-project a img{
+    border: 1px solid #262831;
+}
+
+.txt-project a{
+    text-decoration: none;
+    color: #262831;
+}
+
+.txt-code{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    background-color: #262831;
+    color: white;
+    padding: 20px;
+}
+
+.title-my-project{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #262831;
+}
+
+.title-educate{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #262831;
+}
+
+.txt-educate{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 20px 40px 20px 0 ;
+    line-height: 25px;
+    list-style-type: none;
+    font-size: 15px;
+}
+
+.degree{
+    font-weight: 600;
+}
+
+.block-educ{
+    padding-bottom: 15px;
+}
+
+.lang{
+    padding-top: 0;
+}
+
+.title-lang{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #262831;
+}
+
+.txt-lang{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 20px 40px 20px 0 ;
+    line-height: 25px;
+    list-style-type: none;
+    font-size: 15px;
+}
+
+footer{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #1B1C22;
+    padding: 15px 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-foot{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+}
+
+.pv-by{
+    color: white;
+    font-size: 15px;
+}
+
+.foot-txt{
+    color: white;
+    font-size: 20px;
+}
